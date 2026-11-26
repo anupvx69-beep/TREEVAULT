@@ -52,6 +52,8 @@ Open `http://localhost:3000`.
 ```bash
 npx --yes tsx --test src/utils/treeLayout.test.ts
 ```
+Project Discription:-
+The Museum Tree Archiving and Recovery System is a web application that uses Binary Trees to create, visualize, export, and restore historical family-tree structures without losing their original relationships. It also provides tree editing, version management, integrity checking, and traversal analysis to ensure accurate and reliable data recovery.
 
 https://treevault.ai.studio
 
