@@ -53,6 +53,8 @@ Open `http://localhost:3000`.
 npx --yes tsx --test src/utils/treeLayout.test.ts
 ```
 
+https://treevault.ai.studio
+
 ## Documentation
 
 - [System Architecture](docs/architecture.md)
